@@ -1,0 +1,1 @@
+We were stuck in the beginning because I did not install the certificate. We turned to ChatGPT for help, but it could not offer us the right solution. We then Google the issue, and we learned that we need to find the python in the computer and run the file. After that we are able to run. 
