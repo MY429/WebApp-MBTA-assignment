@@ -1,1 +1,6 @@
 We were stuck in the beginning because I did not install the certificate. We turned to ChatGPT for help, but it could not offer us the right solution. We then Google the issue, and we learned that we need to find the python in the computer and run the file. After that we are able to run. 
+
+Because this is a relatively lengthy and complicated project, Max and I decided to work together along the way. This is particularly helpful since we were both absent for some classes, but luckily not overlapping. For example, I was not around when we went over the HTML, but Max was able to elaborate and teaches me a little about how to get it work. 
+
+In terms of our learning experience, I will have to admit that although ChatGPT is very powerful, it has limitations. It may provide us code to potentionally solve the issue, but it does not always work as every computers have different softwares installed. It would be very important to utilize ChatGPT along with other tools, such as the rubber duck, Google, asking a friend etc.
+
