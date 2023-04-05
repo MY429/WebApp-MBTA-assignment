@@ -5,6 +5,7 @@ Project Overview:
 In this project we provide the nearest MBTA station(s) nearby the location according to what users enter. When entering the location, the program will retrieve the latitudes and longitudes infomation from the API. Then will get most adjacent MBTA station(s) according to the latitudes and longitudes info provided. html, python, and flask.
 
 We were stuck in the beginning because I did not install the certificate. We turned to ChatGPT for help, but it could not offer us the right solution. We then Google the issue, and we learned that we need to find the python in the computer and run the file. After that we are able to run. 
+
 <img width="599" alt="Screenshot 2023-04-04 at 22 52 49" src="https://user-images.githubusercontent.com/122936612/229968995-3e80d0d1-e49e-41cf-bab1-17d7aa49a444.png">
 
 Because this is a relatively lengthy and complicated project, Max and I decided to work together along the way. This is particularly helpful since we were both absent for some classes, but luckily not overlapping. For example, I was not around when we went over the HTML, but Max was able to elaborate and teaches me a little about how to get it work. 
